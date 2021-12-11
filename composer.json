@@ -1,5 +1,5 @@
 {
-    "name": "oat-sa/extension-tao-funcacl",
+    "name": "openthinklabs/extension-tao-funcacl",
     "description": "extension to manage features access control into TAO",
     "type": "tao-extension",
     "authors": [
