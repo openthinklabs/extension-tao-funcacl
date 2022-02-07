@@ -91,9 +91,9 @@
     ],	    
     "require": {
         "openthinklabs/oatbox-extension-installer": "~1.1||dev-master",
-        "openthinklabs/generis": "15.13.1.4",
-        "openthinklabs/tao-core": "48.75.0.6",
-        "openthinklabs/extension-tao-backoffice": ">=6.0.0"
+        "openthinklabs/generis": "15.11.0.2",
+        "openthinklabs/tao-core": "48.66.1.1",
+        "openthinklabs/extension-tao-backoffice": "6.4.2.4"
     },
     "config": {
         "allow-plugins": {
