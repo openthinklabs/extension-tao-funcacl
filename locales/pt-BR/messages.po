@@ -1,24 +1,17 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: tao-open-source\n"
-"PO-Revision-Date: 2023-06-07 08:09\n"
+"Project-Id-Version: TAO 3.3.0-sprint107\n"
+"PO-Revision-Date: 2019-08-02T09:43:59\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
-"Language: pt\n"
+"Language: pt-BR\n"
 "sourceLanguage: en-US\n"
-"targetLanguage: en-US\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"targetLanguage: pt-BR\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: ../../\n"
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-SearchPath-0: .\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: tao-open-source\n"
-"X-Crowdin-Project-ID: 590867\n"
-"X-Crowdin-Language: pt-BR\n"
-"X-Crowdin-File: /[oat-sa.extension-tao-funcacl] develop/locales/en-US/messages.po\n"
-"X-Crowdin-File-ID: 497\n"
-"Language-Team: Portuguese, Brazilian\n"
 
 msgid "Actions"
 msgstr "Ações"
@@ -27,44 +20,44 @@ msgid "Available roles"
 msgstr "Funções disponíveis"
 
 msgid "Grant access rights to the action"
-msgstr "Conceder permissões de acesso para a ação"
+msgstr "Conceder direitos de acesso à ação"
 
 msgid "Grant access rights to the entire controller"
-msgstr "Conceder permissões de acesso para todo controlador"
+msgstr "Conceder direitos de acesso ao controlador inteiro"
 
 msgid "Grant access rights to the entire extension"
-msgstr "Conceder permissões de acesso para toda a extensão"
+msgstr "Conceder direitos de acesso à extensão inteira"
 
 msgid "includes"
-msgstr "incluir"
+msgstr "inclui"
 
 msgid "Inherited access to the action"
-msgstr "Acesso herdado para a ação"
+msgstr "Acesso herdado à ação"
 
 msgid "Inherited access to the controller"
-msgstr "Acesso herdado para o controlador"
+msgstr "Acesso herdado ao controlador"
 
 msgid "Inherited access to the extension"
 msgstr "Acesso herdado à extensão"
 
 #, tao-public
 msgid "Manage Access Rights"
-msgstr "Gerenciar Permissões de Acesso"
+msgstr "Gerenciar direitos de acesso"
 
 msgid "Modules"
 msgstr "Módulos"
 
 msgid "Revoke access rights to the action"
-msgstr "Revogar permissões de acesso para a ação"
+msgstr "Revogar direitos de acesso à ação"
 
 msgid "Revoke access rights to the entire controller"
-msgstr "Revogar permissões de acesso para todo o controlador"
+msgstr "Revogar direitos de acesso ao controlador inteiro"
 
 msgid "Revoke access rights to the entire extension"
-msgstr "Revogar permissões de acesso para toda a extensão"
+msgstr "Revogar direitos de acesso à extensão inteira"
 
 msgid "Roles"
-msgstr "Funções"
+msgstr "Papéis"
 
 #, tao-public
 msgid "Users"

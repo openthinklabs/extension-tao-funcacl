@@ -16,6 +16,7 @@
  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
  *
  * Copyright (c) 2016 (original work) Open Assessment Technologies SA
+ *
  */
 
 namespace oat\funcAcl\models\event;
@@ -25,7 +26,8 @@ use oat\oatbox\event\Event;
 
 class AccessRightRemovedEvent implements Event, JsonSerializable
 {
-    /** @var string */
+
+    /** @var  string */
     protected $roleUri;
     protected $accessUri;
 
@@ -39,9 +41,9 @@ class AccessRightRemovedEvent implements Event, JsonSerializable
         $this->accessUri = $accessUri;
     }
 
+
     /**
      * Return a unique name for this event
-     *
      * @see \oat\oatbox\event\Event::getName()
      */
     public function getName()
@@ -51,19 +53,16 @@ class AccessRightRemovedEvent implements Event, JsonSerializable
 
     /**
      * Specify data which should be serialized to JSON
-     *
      * @link http://php.net/manual/en/jsonserializable.jsonserialize.php
-     *
      * @return mixed data which can be serialized by <b>json_encode</b>,
-     *               which is a value of any type other than a resource
-     *
+     * which is a value of any type other than a resource.
      * @since 5.4.0
      */
     public function jsonSerialize()
     {
         return [
             'roleUri' => $this->roleUri,
-            'accessUri' => $this->accessUri,
+            'accessUri' => $this->accessUri
         ];
     }
 }

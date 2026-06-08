@@ -1,27 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: tao-open-source\n"
-"PO-Revision-Date: 2023-12-04 16:22\n"
+"Project-Id-Version: TAO 3.3.0-sprint107\n"
+"PO-Revision-Date: 2019-08-02T09:43:58\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: ar-arb\n"
 "sourceLanguage: en-US\n"
 "targetLanguage: ar-arb\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: ../../\n"
 "X-Poedit-KeywordsList: __\n"
 "X-Poedit-SearchPath-0: .\n"
-"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
-"X-Crowdin-Project: tao-open-source\n"
-"X-Crowdin-Project-ID: 590867\n"
-"X-Crowdin-Language: ar\n"
-"X-Crowdin-File: /[oat-sa.extension-tao-funcacl] develop/locales/en-US/messages.po\n"
-"X-Crowdin-File-ID: 497\n"
-"Language-Team: Arabic\n"
 
 msgid "Actions"
-msgstr "إجراءات"
+msgstr "أفعال"
 
 msgid "Available roles"
 msgstr "الأدوار المتاحة"
@@ -30,43 +23,43 @@ msgid "Grant access rights to the action"
 msgstr "منح حقوق الوصول إلى الإجراء"
 
 msgid "Grant access rights to the entire controller"
-msgstr "منح حقوق الوصول إلى وحدة التحكم بأكملها"
+msgstr "منح حقوق الوصول إلى وحدة تحكم كاملة"
 
 msgid "Grant access rights to the entire extension"
-msgstr "منح حقوق الوصول إلى الامتداد بأكمله"
+msgstr "منح حقوق الوصول إلى الإمتداد بأكمله"
 
 msgid "includes"
-msgstr "يشمل"
+msgstr "تضمين"
 
 msgid "Inherited access to the action"
 msgstr "الوصول الموروث إلى الإجراء"
 
 msgid "Inherited access to the controller"
-msgstr "الوصول الموروث إلى وحدة التحكم"
+msgstr "وراثة الوصول إلى وحدة تحكم"
 
 msgid "Inherited access to the extension"
-msgstr "الوصول الموروث إلى الملحق"
+msgstr "وراثة الوصول إلى التمديد"
 
 #, tao-public
 msgid "Manage Access Rights"
 msgstr "إدارة حقوق الوصول"
 
 msgid "Modules"
-msgstr "مجزوءات"
+msgstr "الوحدات"
 
 msgid "Revoke access rights to the action"
-msgstr "إلغاء حقوق الوصول إلى الإجراء"
+msgstr "إبطال حقوق الوصول إلى الإجراء"
 
 msgid "Revoke access rights to the entire controller"
-msgstr "إلغاء حقوق الوصول إلى وحدة التحكم بأكملها"
+msgstr "إبطال حقوق الوصول إلى وحدة التحكم بأكملها"
 
 msgid "Revoke access rights to the entire extension"
-msgstr "إلغاء حقوق الوصول إلى الامتداد بأكمله"
+msgstr "إبطال حقوق الوصول إلى الإضافة بأكملها"
 
 msgid "Roles"
-msgstr "أدوار"
+msgstr "وظائف"
 
 #, tao-public
 msgid "Users"
-msgstr "المستخدمون"
+msgstr "المستخدمين"
 
